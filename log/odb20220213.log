@@ -1,0 +1,45 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-02-13 18:57:47 #1 store] 
+Database 'D:\Datos\Escritorio\Fotos Comprometidas\EspacioDeTrabajo\ExamenRicardo\productos.odb' is opened by 4496@DESKTOP-RPM1O8F
+
+[2022-02-13 18:57:47 #2 store] 
+Configuration path: ?
+
+[2022-02-13 18:57:52 #3 type] 
+Type com.examen.Models.Producto is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-02-13 18:59:59 #1 store] 
+Database 'D:\Datos\Escritorio\Fotos Comprometidas\EspacioDeTrabajo\ExamenRicardo\productos.odb' has been recovered (tr. 1-3)
+
+[2022-02-13 18:59:59 #2 store] 
+Database 'D:\Datos\Escritorio\Fotos Comprometidas\EspacioDeTrabajo\ExamenRicardo\productos.odb' is opened by 12992@DESKTOP-RPM1O8F
+
+[2022-02-13 18:59:59 #3 store] 
+Configuration path: ?
+
+[2022-02-13 18:59:59 #4 type] 
+Type com.examen.Models.Producto is not enhanced.
+
+[2022-02-13 18:59:59 #5 type] 
+Type com.examen.Models.Articulo is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-02-13 19:05:14 #1 store] 
+Database 'D:\Datos\Escritorio\Fotos Comprometidas\EspacioDeTrabajo\ExamenRicardo\productos.odb' has been recovered (tr. 4-13)
+
+[2022-02-13 19:05:14 #2 store] 
+Database 'D:\Datos\Escritorio\Fotos Comprometidas\EspacioDeTrabajo\ExamenRicardo\productos.odb' is opened by 22660@DESKTOP-RPM1O8F
+
+[2022-02-13 19:05:14 #3 store] 
+Configuration path: ?
+
+[2022-02-13 19:05:14 #4 type] 
+Type com.examen.Models.Producto is not enhanced.
+
+[2022-02-13 19:05:14 #5 type] 
+Type com.examen.Models.Articulo is not enhanced.
+
